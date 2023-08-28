@@ -71,25 +71,6 @@
 
 -----
 
-### Educational Background🧑‍🎓
-
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in process)
-<ul>
-  Computerlinguistic | 2022-2024 | Tübingen, Baden-Württemberg, Germany
-</ul>
-
-#### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (unfinished)
-<ul>
-  Theoretical and Applied Linguistics | 2019-2022 | Moscow, Russia
-</ul>
-
-#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
-<ul>
-  History and Philology | 2017-2019 | Moscow, Russia
-</ul>
-  
------
-
 ### Professional Background🧑‍💻
 
 #### [_MKSKOM_](https://ml.mkskom.ru/en): Data Scientist / NLP Developer
@@ -120,6 +101,25 @@
   Contributed into holding lectures, creating and evaluating assignments for Olympiade Russian Language course
 </ul>
 
+-----
+
+### Educational Background🧑‍🎓
+
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in process)
+<ul>
+  Computerlinguistic | 2022-2024 | Tübingen, Baden-Württemberg, Germany
+</ul>
+
+#### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (unfinished)
+<ul>
+  Theoretical and Applied Linguistics | 2019-2022 | Moscow, Russia
+</ul>
+
+#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
+<ul>
+  History and Philology | 2017-2019 | Moscow, Russia
+</ul>
+  
 -----
 
 ### Fun Facts😎
