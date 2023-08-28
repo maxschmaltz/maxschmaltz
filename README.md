@@ -73,19 +73,19 @@
 
 ### Educational Background🧑‍🎓
 
-#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in process)
 <ul>
-  History and Philology | 2017-2019 | Moscow, Russia
+  Computerlinguistic | 2022-2024 | Tübingen, Baden-Württemberg, Germany
 </ul>
-  
+
 #### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (unfinished)
 <ul>
   Theoretical and Applied Linguistics | 2019-2022 | Moscow, Russia
 </ul>
 
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in process)
+#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
 <ul>
-  Computerlinguistic | 2022-2024 | Tübingen, Baden-Württemberg, Germany
+  History and Philology | 2017-2019 | Moscow, Russia
 </ul>
   
 -----
