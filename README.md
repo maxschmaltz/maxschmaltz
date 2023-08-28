@@ -13,6 +13,52 @@
 
 ### Tech Stack
 
+#### Programming Languages
+
+[![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org)
+[![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
+[![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-white?style=for-the-badge)](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
+
+#### Python: AI Basic Frameworks
+
+[![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io)
+[![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+
+#### Python: NLP
+
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-black?style=for-the-badge&logo=OpenAI)](https://platform.openai.com)
+[![🦜️🔗LangChain](https://img.shields.io/badge/🦜️🔗LangChain-white?style=for-the-badge)](https://www.langchain.com)
+[![🦙llama-cpp-python](https://img.shields.io/badge/🦙llama--cpp--python-white?style=for-the-badge)](https://llama-cpp-python.readthedocs.io)
+[![🤗 Transformers](https://img.shields.io/badge/🤗_Transformers-white?style=for-the-badge)](https://huggingface.co/docs/transformers/index)
+[![🤗 Datasets](https://img.shields.io/badge/🤗_Datasets-white?style=for-the-badge)](https://huggingface.co/docs/datasets/index)
+[![NLTK](https://img.shields.io/badge/NLTK-black?style=for-the-badge)](https://www.nltk.org)
+[![spaCy](https://img.shields.io/badge/spaCy-white?style=for-the-badge&logo=spaCy&logoColor=%2309A3D5)](https://spacy.io)
+[![Gensim](https://img.shields.io/badge/Gensim-darkblue?style=for-the-badge)](https://github.com/RaRe-Technologies/gensim)
+[![pynini](https://img.shields.io/badge/pynini-white?style=for-the-badge)](https://www.openfst.org/twiki/bin/view/GRM/Pynini)
+
+#### Python: TSF
+
+[![statsmodels](https://img.shields.io/badge/statsmodels-blueviolet?style=for-the-badge)](https://www.statsmodels.org/stable/index.html)
+[![pmdarima](https://img.shields.io/badge/pmdarima-blue?style=for-the-badge)](http://alkaline-ml.com/pmdarima/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge)](https://xgboost.readthedocs.io/en/stable/)
+
+#### Python: Misc
+
+[![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://scipy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)](https://matplotlib.org)
+[![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
+[![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
+#### Deployment
+
+[![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-lightblue?style=for-the-badge&logo=docker&logoColor=%232496ED)](https://hub.docker.com)
+[![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)
+
 -----
 
 ### Educational Background🧑‍🎓
