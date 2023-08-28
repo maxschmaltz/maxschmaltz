@@ -1,6 +1,7 @@
 ## I'm Max, nice to have you here👋
 
 -----
+-----
 
 ### About Me📌
 
@@ -11,7 +12,17 @@
 * Learn faster than Logistic Regression
 * Take a look at [my resume](./Resume.pdf)
 
-### Tech Stack
+### Connect🤗
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-shmalts/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schmaltzmax@gmail.com)
+[![Calendly](https://img.shields.io/badge/Calendly-blue?style=for-the-badge&logo=Calendly&logoColor=Blue)](https://calendly.com/schmaltzmax)
+[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+4917632626044)
+[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxschmaltz)
+
+-----
+
+### Tech Stack🛠️
 
 #### Programming Languages
 
@@ -78,7 +89,7 @@
   Computerlinguistic | 2022-2024 | Tübingen, Baden-Württemberg, Germany
 </ul>
   
-<br>
+-----
 
 ### Professional Background🧑‍💻
 
@@ -109,19 +120,3 @@
 
   Contributed into holding lectures, creating and evaluating assignments for Olympiade Russian Language course
 </ul>
-
-
-### Connect🤗
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-shmalts/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schmaltzmax@gmail.com)
-[![Calendly](https://img.shields.io/badge/Calendly-blue?style=for-the-badge&logo=Calendly&logoColor=Blue)](https://calendly.com/schmaltzmax)
-[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+4917632626044)
-[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxschmaltz)
-
-
-
-
-
-
-
