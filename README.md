@@ -1,7 +1,6 @@
 ## I'm Max, nice to have you here👋
 
 -----
------
 
 ### About Me📌
 
