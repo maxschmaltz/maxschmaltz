@@ -5,7 +5,7 @@
 ### About Me📌
 
 * Young and passionate NLP Engineer
-* 4+ years of experience with Python, Machine and Deep Learning, Artificial Intelligence
+* 4+ years of experience in Python, Machine and Deep Learning, Artificial Intelligence
 * Generative LLMs? Bring it on!
 * Create tools for German NLP as a hobbie
 * Learn faster than Logistic Regression
