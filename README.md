@@ -73,7 +73,7 @@
 
 ### Professional Background🧑‍💻
 
-#### [_MKSKOM_](https://ml.mkskom.ru/en): Data Scientist / NLP Developer
+#### [_MKSKOM_](https://ml.mkskom.ru/en): Data Scientist / NLP Engineer
 <ul>
   Best boost for my competencies | 2021-present | Moscow, Russia (remote)
   
