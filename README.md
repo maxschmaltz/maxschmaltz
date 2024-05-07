@@ -126,7 +126,7 @@
 
 * I've been living on my own from the age of 15
 * I gave up Lomonosov MSU to leave for Germany in 2022
-* My best friend and I have found a startup, we're planning to launch till the end of 2023
+* My best friend and I have found a startup, the app is currently in beta testing
 * In 2019, I became a prize-winner of All-Russian Olympiade for Russian Language (basically, Linguistics), while I had only 5 month to prepare
 * The prize gave me a right to enter any university of my choice in Russia for major Linguistics without any exams at all
 * I completed a musical education, now I compose songs from time to time
