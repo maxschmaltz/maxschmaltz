@@ -5,7 +5,7 @@
 ### About Me📌
 
 * Young and passionate NLP Engineer
-* 4+ years of experience in Python, Machine and Deep Learning, Artificial Intelligence
+* 5+ years of experience in Python, Machine and Deep Learning, Natural Language Processing (including Large Language Models)
 * Generative LLMs? Bring it on!
 * Create tools for German NLP as a hobby
 * Learn faster than Logistic Regression
@@ -38,8 +38,8 @@
 
 #### Python: NLP
 
-[![OpenAI API](https://img.shields.io/badge/OpenAI_API-black?style=for-the-badge&logo=OpenAI)](https://platform.openai.com)
 [![🦜️🔗LangChain](https://img.shields.io/badge/🦜️🔗LangChain-white?style=for-the-badge)](https://www.langchain.com)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-black?style=for-the-badge&logo=OpenAI)](https://platform.openai.com)
 [![🦙llama-cpp-python](https://img.shields.io/badge/🦙llama--cpp--python-white?style=for-the-badge)](https://llama-cpp-python.readthedocs.io)
 [![🤗 Transformers](https://img.shields.io/badge/🤗_Transformers-white?style=for-the-badge)](https://huggingface.co/docs/transformers/index)
 [![🤗 Datasets](https://img.shields.io/badge/🤗_Datasets-white?style=for-the-badge)](https://huggingface.co/docs/datasets/index)
@@ -73,44 +73,56 @@
 
 ### Professional Background🧑‍💻
 
-#### [_MKSKOM_](https://ml.mkskom.ru/en): Data Scientist / NLP Engineer
+#### [_IAV_]([https://ml.mkskom.ru/en](https://www.iav.com/en/)): Working Student for LLMs
 <ul>
-  Best boost for my competencies | 2021-present | Moscow, Russia (remote)
+  Further deepening and extension of my competencies | 2023-present | Berlin, Germany | Partially remote
   
-  Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis, communicated with customers
+  Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines
+  
 </ul>
 
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Student Assistant, Tutor
+#### [_MKSKOM_](https://ml.mkskom.ru/en): Data Scientist / NLP Engineer
 <ul>
-  Best boost for my communication | 2022-2023 | Tübingen, Baden-Württemberg, Germany
+  Best boost for my competencies | 2021-2023 | Moscow, Russia | Remote
+  
+  Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis;
+  contributed into creating a custom RAG-engine for a large customer;
+  increased the number of responses from potential customers on a freelance platform **by 5 times** by independently
+  designing and implementing an automated LLM-based tool for search and filtering posts and contacting potential customers with relevant infos;
+  communicated with customers
+</ul>
 
-  Contributed into holding lectures, creating and evaluating assignments for Python, Statistical Language Processing, String Algorithms courses
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Student Assistant, Tutor (Various Courses)
+<ul>
+  Best boost for my communication | 2022-2023 | Tübingen, Baden-Württemberg, Germany | On-site
+
+  Contributed into holding lectures, created and evaluated assignments for Python, Statistical Language Processing, String Algorithms courses
 </ul>
 
 #### [_Yandex_](https://yandex.com): Assessor
 <ul>
-  Deeper understanding of various IT topics | 2021-2022 | Moscow, Russia (remote)
+  Deeper understanding of various IT topics | 2021-2022 | Moscow, Russia | Remote
 
-  Evaluated search engine for IT topic queries, machine translation
+  Evaluated search engine results on IT-themed queries, evaluated machine translations
 </ul>
 
-#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
+#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): Instructor for the Course "Linguistics for Olympiades"
 <ul>
-  First experience of lecturing | 2021-2022 | Moscow, Russia
+  First experience of lecturing | 2021-2022 | Moscow, Russia | On-site
 
-  Contributed into holding lectures, creating and evaluating assignments for Olympiade Russian Language course
+  Contributed into holding lectures, created and evaluated assignments for the Course "Linguistics for Olympiades"
 </ul>
 
 -----
 
 ### Educational Background🧑‍🎓
 
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in process)
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in progress)
 <ul>
-  Computerlinguistic | 2022-2024 | Tübingen, Baden-Württemberg, Germany
+  Computational Linguistics | 2022-2024 | Tübingen, Baden-Württemberg, Germany
 </ul>
 
-#### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (unfinished)
+#### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (incomplete)
 <ul>
   Theoretical and Applied Linguistics | 2019-2022 | Moscow, Russia
 </ul>
