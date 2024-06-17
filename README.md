@@ -88,7 +88,8 @@
 <ul>
   Best boost for my competencies | 2021-2023 | Moscow, Russia | Remote
 
-  <br />
+  <br/>
+  <br/>
   
   Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis;
   contributed into creating a custom RAG-engine for a large customer;
@@ -101,7 +102,8 @@
 <ul>
   Best boost for my communication | 2022-2023 | Tübingen, Baden-Württemberg, Germany | On-site
 
-  <br />
+  <br/>
+  <br/>
 
   Contributed into holding lectures, created and evaluated assignments for Python, Statistical Language Processing, String Algorithms courses
 </ul>
@@ -110,7 +112,8 @@
 <ul>
   Deeper understanding of various IT topics | 2021-2022 | Moscow, Russia | Remote
 
-  <br />
+  <br/>
+  <br/>
 
   Evaluated search engine results on IT-themed queries, evaluated machine translations
 </ul>
@@ -119,7 +122,8 @@
 <ul>
   First experience of lecturing | 2021-2022 | Moscow, Russia | On-site
 
-  <br />
+  <br/>
+  <br/>
 
   Contributed into holding lectures, created and evaluated assignments for the Course "Linguistics for Olympiades"
 </ul>
