@@ -77,7 +77,8 @@
 <ul>
   Further deepening and extension of my competencies | 2023-present | Berlin, Germany | Partially remote
 
-  <br />
+  <br/>
+  <br/>
   
   Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines
   
