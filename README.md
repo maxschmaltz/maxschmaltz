@@ -73,11 +73,11 @@
 
 ### Professional Background🧑‍💻
 
-#### [_IAV_]([https://ml.mkskom.ru/en](https://www.iav.com/en/): Working Student for LLMs
+#### [_IAV_](https://www.iav.com/en/): Working Student for LLMs
 <ul>
   Further deepening and extension of my competencies | 2023-present | Berlin, Germany | Partially remote
 
-  <br>
+  <br />
   
   Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines
   
@@ -87,7 +87,7 @@
 <ul>
   Best boost for my competencies | 2021-2023 | Moscow, Russia | Remote
 
-  <br>
+  <br />
   
   Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis;
   contributed into creating a custom RAG-engine for a large customer;
@@ -100,7 +100,7 @@
 <ul>
   Best boost for my communication | 2022-2023 | Tübingen, Baden-Württemberg, Germany | On-site
 
-  <br>
+  <br />
 
   Contributed into holding lectures, created and evaluated assignments for Python, Statistical Language Processing, String Algorithms courses
 </ul>
@@ -109,7 +109,7 @@
 <ul>
   Deeper understanding of various IT topics | 2021-2022 | Moscow, Russia | Remote
 
-  <br>
+  <br />
 
   Evaluated search engine results on IT-themed queries, evaluated machine translations
 </ul>
@@ -118,7 +118,7 @@
 <ul>
   First experience of lecturing | 2021-2022 | Moscow, Russia | On-site
 
-  <br>
+  <br />
 
   Contributed into holding lectures, created and evaluated assignments for the Course "Linguistics for Olympiades"
 </ul>
