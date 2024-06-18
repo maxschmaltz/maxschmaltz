@@ -111,6 +111,7 @@
   <br/>
 
   • Contributed into holding lectures, created and evaluated assignments for courses "Python for Beginners", "Statistical Language Processing II", "String Algorithms"
+  • Created Finite-States Transducers for measuring distance between German dialects for the course "String Algorithms" (`Python`, `pynini`)
 </ul>
 
 #### [_Yandex_](https://yandex.com): Assessor
