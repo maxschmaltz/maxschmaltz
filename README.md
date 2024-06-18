@@ -98,7 +98,7 @@
   • Increased the number of responses from potential customers on a freelance platform **by 5 times** by independently
   designing and implementing an automated LLM-based tool for search and filtering posts and contacting potential customers with relevant infos (`Python`, `Puzzle` [internal tool])
 
-  • Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis (`Python`, `PyTorch`, `scikit-learn`, `statsmodels`, `Pandas`, `NumPy`)
+  • Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis (`Python`, `PyTorch`, `spaCy`, `scikit-learn`, `statsmodels`, `Pandas`, `NumPy`)
 
   • Сommunicated with potential customers
 </ul>
