@@ -131,7 +131,7 @@
   <br/>
   <br/>
 
-  • Contributed into holding lectures, composed and evaluated assignments for the Course "Linguistics for Olympiads"
+  • Held lectures, composed and evaluated assignments for the Course "Linguistics for Olympiads"
 </ul>
 
 -----
