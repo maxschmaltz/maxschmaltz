@@ -80,7 +80,9 @@
   <br/>
   <br/>
   
-  Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines
+  • Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines (`Python`, `LangChain`, `Ragas`, `HF datasets`, `Azure`)
+
+  • Currently, testing applicability of Retrieval-Augmented Generation Engines for internal usage (`Python`, `LangChain`, `RAGFlow`, `Canopy`, `Verba`, `Azure`)
   
 </ul>
 
@@ -91,11 +93,14 @@
   <br/>
   <br/>
   
-  Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis;
-  contributed into creating a custom RAG-engine for a large customer;
-  increased the number of responses from potential customers on a freelance platform **by 5 times** by independently
-  designing and implementing an automated LLM-based tool for search and filtering posts and contacting potential customers with relevant infos;
-  communicated with customers
+  • Contributed into creating a custom Retrieval-Augmented Generation Engine for a large customer (`Python`, `LangChain`, `Llama.cpp`, `HF`)
+  
+  • Increased the number of responses from potential customers on a freelance platform **by 5 times** by independently
+  designing and implementing an automated LLM-based tool for search and filtering posts and contacting potential customers with relevant infos (`Python`, `Puzzle` [internal tool])
+
+  • Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis (`Python`, `PyTorch`, `scikit-learn`, `statsmodels`, `Pandas`, `NumPy`)
+
+  • Сommunicated with potential customers
 </ul>
 
 #### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Student Assistant, Tutor (Various Courses)
@@ -105,7 +110,7 @@
   <br/>
   <br/>
 
-  Contributed into holding lectures, created and evaluated assignments for Python, Statistical Language Processing, String Algorithms courses
+  • Contributed into holding lectures, created and evaluated assignments for courses "Python for Beginners", "Statistical Language Processing II", "String Algorithms"
 </ul>
 
 #### [_Yandex_](https://yandex.com): Assessor
@@ -115,7 +120,7 @@
   <br/>
   <br/>
 
-  Evaluated search engine results on IT-themed queries, evaluated machine translations
+  • Evaluated search engine results on IT-themed queries, evaluated machine translations
 </ul>
 
 #### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): Instructor for the Course "Linguistics for Olympiades"
@@ -125,7 +130,7 @@
   <br/>
   <br/>
 
-  Contributed into holding lectures, created and evaluated assignments for the Course "Linguistics for Olympiades"
+  • Contributed into holding lectures, composed and evaluated assignments for the Course "Linguistics for Olympiads"
 </ul>
 
 -----
