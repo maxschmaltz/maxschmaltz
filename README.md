@@ -9,7 +9,7 @@
 * Generative LLMs? Bring it on!
 * Creating tools for German NLP as a hobby
 * Learn faster than Logistic Regression
-* Take a look at [my resume](./Resume.pdf)
+* Take a look at [my resume](./Resume.pdf) (might render incorrectly in Safari)
 
 ### Connect🤗
 
