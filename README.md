@@ -170,7 +170,7 @@
      University), Science Sessions-2022 (Kant Baltic Federal University), XXII International 
      Conference of Young Slavists (Tallinn University)
 
-  • 2020 Term paper on predicting ablaut class of German strong verbs (`Python`, `PyTorch`)
+  • 2021 Term paper on predicting ablaut class of German strong verbs (`Python`, `PyTorch`)
 </ul>
 
 #### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
