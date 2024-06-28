@@ -122,7 +122,9 @@
   <br/>
   <br/>
 
-  • Evaluated search engine results on IT-themed queries, evaluated machine translations
+  • Evaluated search engine results on IT-themed queries
+  
+  • Evaluated machine translations
 </ul>
 
 #### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): Instructor for the Course "Linguistics for Olympiades"
