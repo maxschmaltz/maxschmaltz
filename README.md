@@ -145,7 +145,7 @@
 <ul>
   Computational Linguistics | 2022-2024 | Tübingen, Baden-Württemberg, Germany
 
-  • 2024 (in progress) Bachelor thesis on applying LLMs to solving untrivial linguistic tasks (on the example of splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`, `spaCy`)
+  • 2024 (in progress) Bachelor thesis on applying LLMs to solving non-trivial linguistic tasks (on the example of splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`, `spaCy`)
     
   • 2024 Group project on investigating influence of RL fine-tuning data on biasing LLMs (`Python`, `HF transformers`)
 
