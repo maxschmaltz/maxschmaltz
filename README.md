@@ -82,7 +82,7 @@
   
   • Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines (`Python`, `LangChain`, `Ragas`, `HF datasets`, `Azure`)
 
-  • Currently, testing applicability of Retrieval-Augmented Generation Engines for internal usage (`Python`, `LangChain`, `RAGFlow`, `Canopy`, `Verba`, `Azure`)
+  • Currently, connecting OpenAI function calling to our internal on-premise models (`Python`, `TGI`, `LangChain`)
   
 </ul>
 
@@ -145,14 +145,11 @@
 <ul>
   Computational Linguistics | 2022-2024 | Tübingen, Baden-Württemberg, Germany
 
-  • 2024 (in progress) Bachelor thesis on splitting German compounds with LLMs (`Python`,
-     `LangChain`, `PyTorch`, `HF transformers`)
+  • 2024 (in progress) Bachelor thesis on applying LLMs to solving untrivial linguistic tasks (on the example of splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`, `spaCy`)
     
-  • 2024 Group project on investigating influence of RL fine-tuning data on biasing LLMs 
-     (`Python`, `HF transformers`)
+  • 2024 Group project on investigating influence of RL fine-tuning data on biasing LLMs (`Python`, `HF transformers`)
 
-  • 2023 Participated at the SemEval 2023 and published a paper at the ACL Anthology 
-    (`Python`, `HF transformers`, `HF datasets`)
+  • 2023 Participated at the SemEval 2023 and published a paper at the ACL Anthology (`Python`, `HF transformers`, `HF datasets`)
 </ul>
 
 #### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Exchange Semester
@@ -168,9 +165,7 @@
   
   • 2022 Personal project DERBI: a tool for automatic inflection of German words (`Python`)
   
-  • 2022 Conference diploma for DERBI: Lomonosov-2022 (Lomonosov Moscow State 
-     University), Science Sessions-2022 (Kant Baltic Federal University), XXII International 
-     Conference of Young Slavists (Tallinn University)
+  • 2022 Conference diploma for DERBI: Lomonosov-2022 (Lomonosov Moscow State University), Science Sessions-2022 (Kant Baltic Federal University), XXII International Conference of Young Slavists (Tallinn University)
 
   • 2021 Term paper on predicting ablaut class of German strong verbs (`Python`, `PyTorch`)
 </ul>
@@ -179,8 +174,7 @@
 <ul>
   History and Philology | 2017-2019 | Moscow, Russia
 
-  • 2019 Prize-winner of All-Russian Olympiad for Linguistics (gives no-exam admission to 
-  the top university of choice)
+  • 2019 Prize-winner of All-Russian Olympiad for Linguistics (gives no-exam admission to the top university of choice)
   
   • 2019 Graduation with a Gold Medal
 </ul>
