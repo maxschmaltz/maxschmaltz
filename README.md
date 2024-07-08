@@ -93,7 +93,7 @@
   <br/>
   <br/>
   
-  • Contributed into creating a custom Retrieval-Augmented Generation Engine for a large customer (`Python`, `LangChain`, `Llama.cpp`, `HF`)
+  • Implemented backend for a custom LLama-2-based Retrieval-Augmented Generation Engine for a large customer (`Python`, `LangChain`, `Llama.cpp`, `HF Transformers`)
   
   • Increased the number of responses from potential customers on a freelance platform **by 5 times** by independently
   designing and implementing an automated LLM-based tool for search and filtering posts and contacting potential customers with relevant infos (`Python`, `Puzzle` [internal tool])
