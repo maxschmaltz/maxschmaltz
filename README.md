@@ -127,7 +127,7 @@
   • Evaluated machine translations
 </ul>
 
-#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): Instructor for the Course "Linguistics for Olympiades"
+#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): Course Instructor (Linguistics for Olympiades)
 <ul>
   First experience of lecturing | 2021-2022 | Moscow, Russia | On-site
 
