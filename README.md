@@ -75,14 +75,14 @@
 
 #### [_IAV_](https://www.iav.com/en/): Working Student for LLMs
 <ul>
-  Further deepening and extension of my competencies | 2023-present | Berlin, Germany | Partially remote
+  Further deepening and extension of my competencies | 2023-2024 | Berlin, Germany | Hybrid
 
   <br/>
   <br/>
   
   • Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines (`Python`, `LangChain`, `Ragas`, `HF datasets`, `Azure`)
 
-  • Currently, connecting OpenAI function calling to our internal on-premise models (`Python`, `TGI`, `LangChain`)
+  • Connected OpenAI tool calling to our internal on-premise models (`Python`, `TGI`, `LangChain`)
   
 </ul>
 
@@ -103,16 +103,16 @@
   • Сommunicated with potential customers
 </ul>
 
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Student Assistant, Tutor (Various Courses)
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Tutor / HiWi
 <ul>
   Best boost for my communication | 2022-2023 | Tübingen, Baden-Württemberg, Germany | On-site
 
   <br/>
   <br/>
 
-  • Created Finite-States Transducers for measuring distance between German dialects for the course "String Algorithms" (`Python`, `pynini`)
+  • Held tutorials and contributed into evaluating assignments and projects for the courses "String Algorithms" (WiSe22/23), "Python for Beginners" (WiSe22/23), "Statistical Language Processing II" (SoSe23), "Reinforcement Learning for LLMs" (SoSe24)
 
-  • Contributed into holding lectures, created and evaluated assignments for courses "Python for Beginners", "Statistical Language Processing II", "String Algorithms"
+  • Created Finite-States Transducers for measuring distance between German dialects for the course "String Algorithms" (`Python`, `pynini`)
 </ul>
 
 #### [_Yandex_](https://yandex.com): Assessor
@@ -145,18 +145,11 @@
 <ul>
   Computational Linguistics | 2022-2024 | Tübingen, Baden-Württemberg, Germany
 
-  • 2024 (in progress) Bachelor thesis on applying LLMs to solving non-trivial linguistic tasks (on the example of splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`, `spaCy`)
+  • 2024 Bachelor thesis on applying LLMs to splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`)
     
   • 2024 Group project on investigating influence of RL fine-tuning data on biasing LLMs (`Python`, `HF transformers`)
 
   • 2023 Participated at the SemEval 2023 and published a paper at the ACL Anthology (`Python`, `HF transformers`, `HF datasets`)
-</ul>
-
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Exchange Semester
-<ul>
-  Computational Linguistics | 2022 | Tübingen, Baden-Württemberg, Germany
-
-  • 2022 Applied for the Bachelor at the Uni Tübingen, got admitted and transferred
 </ul>
 
 #### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (incomplete)
