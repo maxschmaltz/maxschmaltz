@@ -73,6 +73,28 @@
 
 ### Professional Background🧑‍💻
 
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Research Assistant
+<ul>
+  The deepest dive-in into the field | 2025-2027 | Tübingen, Germany | On-site
+
+  <br/>
+  <br/>
+  
+  Currently working on applying Large Language Models to solving complex linguistic tasks within the scope of my PhD studies
+  
+</ul>
+
+#### [_IPH_](https://www.iph-hannover.de/en/): Working Student for LLMs
+<ul>
+  Using my competencies for prototyping for customers | 2024-2025 | Hannover, Germany | Remote
+
+  <br/>
+  <br/>
+  
+  • Prototyped custom Retrieval-Augmented Generation pipelines (`Python`, `LangChain`, `n8n`, `streamlit`, `docker`)
+  
+</ul>
+
 #### [_IAV_](https://www.iav.com/en/): Working Student for LLMs
 <ul>
   Further deepening and extension of my competencies | 2023-2024 | Berlin, Germany | Hybrid
@@ -141,9 +163,14 @@
 
 ### Educational Background🧑‍🎓
 
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor (in progress)
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): PhD
 <ul>
-  Computational Linguistics | 2022-2024 | Tübingen, Baden-Württemberg, Germany
+  Computational Linguistics | 2025-2027 | Tübingen, Germany
+</ul>
+
+#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor
+<ul>
+  Computational Linguistics | 2022-2024 | Tübingen, Germany
 
   • 2024 Bachelor thesis on applying LLMs to splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`)
     
