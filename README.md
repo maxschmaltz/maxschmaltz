@@ -80,7 +80,9 @@
   <br/>
   <br/>
   
-  Currently working on applying Large Language Models to solving complex linguistic tasks within the scope of my PhD studies
+  • Working on applying Large Language Models to solving complex linguistic tasks within the scope of my PhD studies
+
+  • Teaching course "LLM-based Assistants" (for BA students)  
   
 </ul>
 
