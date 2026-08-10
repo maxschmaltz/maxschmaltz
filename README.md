@@ -1,27 +1,59 @@
-## I'm Max, nice to have you here👋
+## Maksim Shmalts
 
------
+I am pursuing a PhD in computational linguistics at the University of Tübingen. My primary interests include weak constraints in grammar, abstraction/generalization capabilities of LLMs, and pragmatic reasoning with LLMs. In particular, I am currently investigating whether LLMs can abstract the interaction of conflicting constraints that govern irregular phenomena in German as humans do.
 
-### About Me📌
+Click [here](./resume.pdf) to access my resume.
 
-* Young and enthusiastic NLP / LLM Engineer
-* 5+ years of experience in Python, Machine and Deep Learning, Natural Language Processing (including Large Language Models)
-* Generative LLMs? Bring it on!
-* Creating tools for German NLP as a hobby
-* Learn faster than Logistic Regression
-* Take a look at [my resume](./Resume.pdf) (might render incorrectly in Safari)
-
-### Connect🤗
+### Connect
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-shmalts/)
+[![image](https://img.shields.io/badge/uni-email-red)](mailto:maksim.shmalts@uni-tuebingen.de)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schmaltzmax@gmail.com)
 [![Calendly](https://img.shields.io/badge/Calendly-blue?style=for-the-badge&logo=Calendly&logoColor=Blue)](https://calendly.com/schmaltzmax)
+
+ <!--
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+4917632626044)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxschmaltz)
+-->
 
------
 
-### Tech Stack🛠️
+### Related Work Experience
+
+| 2025-2029 | Research Assistant, Eberhards Karls Universität Tübingen, Tübingen, on-site • Currently occupied at a long-term project called The Status of Linguistic Constraints in Neural Language Models as a part of the [LaSTing Priority Program](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-32) (funded by the DFG, reference number HI 495/8-1). The current step of the project is investigating whether the LLMs are able to acquire weak (defeasible) grammar constraints on the example of German compounding. See [DieKonstraints](https://github.com/maxschmaltz/DieKonstraints) on GitHub. • Instructed the course "LLM-based Assistants" for BA students. See the [course page](https://maxschmaltz.github.io/Course-LLM-based-Assistants/) and the [repo](https://github.com/maxschmaltz/Course-LLM-based-Assistants) on GitHub. |
+| :---- | :---- |
+| 2024-2025 | **Working Student for LLMs**, IPH gGmbH, Hannover, remote • Prototyped custom RAG pipelines (Python, n8n, LangChain, streamlit, docker). |
+| 2023-2024 | **Working Student for LLMs**, IAV GmbH, Berlin, hybrid • Implemented and integrated an internal tool for evaluation of LLMs and RAG pipelines (Python, LangChain, Ragas, OpenAI). • Connected OpenAI tool calling to our internal on-premise models (Python, TGI, LangChain). |
+| 2021-2023 | **Data Scientist / NLP Engineer**, MKSKOM, Moscow, hybrid • Implemented the backend for a custom RAG engine for a large customer (Python, LangChain, Llama.cpp, HF Transformers). • Increased the number of responses from potential customers on a freelance platform by 5 times by designing and implementing an LLM-based tool for automatic search for and contacting leads (Python, LangChain, OpenAI, Puzzle \[internal tool\]). Сommunicated with potential customers on that platform. • Implemented prototypes of various tools for NLP, time series prediction, optimization modeling, data analysis (Python, PyTorch, spaCy, scikit-learn, statsmodels, Pandas, NumPy, streamlit). |
+| 2022-2023 | **Tutor**, Eberhards Karls Universität Tübingen, Tübingen, on-site • Held tutorials and contributed into evaluating assignments and projects for the courses "String Algorithms" (WiSe22/23), "Python for Beginners" (WiSe22/23), "Statistical Language Processing II" (SoSe23), "Reinforcement Learning for LLMs" (SoSe24). • Created Finite-States Transducers for measuring distance between German dialects for the course "String Algorithms" (WiSe22/23) (Python, pynini). |
+
+### Publications
+
+| 2026 | Constraints on Linking Element Choice in German Nominal Compounding: A Large-Scale Corpus Study In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE), DOI: [10.63317/24uhjb79y8ov](https://doi.org/10.63317/24uhjb79y8ov). |
+| :---- | :---- |
+| 2024 | **Derbi: Deutscher regelbasierter Inflektor** In [Studia Slavica XX](https://www.etis.ee/portal/publications/display/137a983f-08d4-416c-87e6-bf683ee46849), Tallinn, ISBN 2674-2160. |
+| 2023 | **John Boy Walton at SemEval-2023 Task 5: An Ensemble Approach to Spoiler Classification and Retrieval for Clickbait Spoiling** In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), Toronto, DOI [10.18653/v1/2023.semeval-1.289](https://doi.org/10.18653/v1/2023.semeval-1.289). |
+
+### Education
+
+| 2025-curr | Eberhard Karls Universität Tübingen, PhD: Computational Linguistics, Tübingen • 2026 Talk and [publication](https://doi.org/10.63317/24uhjb79y8ov) at the [SLiDE workshop](https://www.slide-workshop.org) at the [LREC26](https://lrec2026.info) conference. • 2025 Was admitted to the PhD program directly after completing BA. |
+| :---- | :---- |
+| 2022-2025 | **Eberhard Karls Universität Tübingen**, BA: Computational Linguistics, Tübingen • 2024 Bachelor thesis on applying LLMs to German compound splitting (Python, LangChain, PyTorch, HF transformers). See [DEKOR](https://github.com/maxschmaltz/DEKOR) on GitHub. • 2023 Participated at the SemEval 2023 and published a [result paper](https://doi.org/10.18653/v1/2023.semeval-1.289) (Python, HF transformers). |
+| 2019-2022 | **Lomonosov Moscow State University**, BA, interrupted: Theoretical and Applied Linguistics, Moscow • 2022 Developed DERBI: a tool for automatic inflection of German words (Python), see [DERBI](https://github.com/maxschmaltz/DERBI) on GitHub. • 2022 Participated at student conferences in Tallinn (on-site), Moscow (remote), Kaliningrad (remote). • 2021 Term paper on predicting ablaut classes of German strong verbs (Python, PyTorch). |
+| 2017-2019 | **Lomonosov Moscow State University Gymnasium**, High School: History and Philology, Moscow • 2019 Prize-winner of All-Russian Olympiad for Linguistics (allows an exam-free admission to a linguistics program at the university of choice). • 2019 Graduation with a Gold Medal. |
+
+### Misc
+
+| Natural languages  | Russian (native), English (C1), German (B2/C1), Spanish (B1), Italian (A2). |
+| :---- | :---- |
+| Programming languages  | Python, R, C\#, Java. |
+| Tech stack | LangChain, HF Transformers, spaCy, PyTorch, scikit-learn, Pandas, NumPy; Docker, GitLab (CI/CD), basic Unix tools. |
+| Misc achievements | Prize winner for numerous national and international musical competitions, driving license categories A and B, startup founder (few unsuccessful attempts). |
+| Interests | Composing music, traveling, arts & crafts, table tennis, gardening, history, philosophy. |
+
+
+<!--
+
+### Tech Stack
 
 #### Programming Languages
 
@@ -69,148 +101,17 @@
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-lightblue?style=for-the-badge&logo=docker&logoColor=%232496ED)](https://hub.docker.com)
 [![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com)
 
------
+-->
 
-### Professional Background🧑‍💻
+### Fun Facts
 
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Research Assistant
-<ul>
-  The deepest dive-in into the field | 2025-2027 | Tübingen, Germany | On-site
-
-  <br/>
-  <br/>
-  
-  • Working on applying Large Language Models to solving complex linguistic tasks within the scope of my PhD studies
-
-  • Teaching course "LLM-based Assistants" (for BA students)  
-  
-</ul>
-
-#### [_IPH_](https://www.iph-hannover.de/en/): Working Student for LLMs
-<ul>
-  Using my competencies for prototyping for customers | 2024-2025 | Hannover, Germany | Remote
-
-  <br/>
-  <br/>
-  
-  • Prototyped custom Retrieval-Augmented Generation pipelines (`Python`, `LangChain`, `n8n`, `streamlit`, `docker`)
-  
-</ul>
-
-#### [_IAV_](https://www.iav.com/en/): Working Student for LLMs
-<ul>
-  Further deepening and extension of my competencies | 2023-2024 | Berlin, Germany | Hybrid
-
-  <br/>
-  <br/>
-  
-  • Implemented and integrated a tool for evaluation of Large Language Models and Retrieval-Augmented Generation pipelines (`Python`, `LangChain`, `Ragas`, `HF datasets`, `Azure`)
-
-  • Connected OpenAI tool calling to our internal on-premise models (`Python`, `TGI`, `LangChain`)
-  
-</ul>
-
-#### [_MKSKOM_](https://ml.mkskom.ru/en): Data Scientist / NLP Engineer
-<ul>
-  Best boost for my competencies | 2021-2023 | Moscow, Russia | Remote
-
-  <br/>
-  <br/>
-  
-  • Implemented backend for a custom Llama-2-based Retrieval-Augmented Generation Engine for a large customer (`Python`, `LangChain`, `Llama.cpp`, `HF Transformers`)
-  
-  • Increased the number of responses from potential customers on a freelance platform **by 5 times** by independently
-  designing and implementing an automated LLM-based tool for search and filtering posts and contacting potential customers with relevant infos (`Python`, `Puzzle` [internal tool])
-
-  • Implemented tools for Natural Language Processing, Time Series Prediction, Optimization Modelling, Data Analysis (`Python`, `PyTorch`, `spaCy`, `scikit-learn`, `statsmodels`, `Pandas`, `NumPy`)
-
-  • Сommunicated with potential customers
-</ul>
-
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Tutor / HiWi
-<ul>
-  Best boost for my communication | 2022-2023 | Tübingen, Baden-Württemberg, Germany | On-site
-
-  <br/>
-  <br/>
-
-  • Held tutorials and contributed into evaluating assignments and projects for the courses "String Algorithms" (WiSe22/23), "Python for Beginners" (WiSe22/23), "Statistical Language Processing II" (SoSe23), "Reinforcement Learning for LLMs" (SoSe24)
-
-  • Created Finite-States Transducers for measuring distance between German dialects for the course "String Algorithms" (`Python`, `pynini`)
-</ul>
-
-#### [_Yandex_](https://yandex.com): Assessor
-<ul>
-  Deeper understanding of various IT topics | 2021-2022 | Moscow, Russia | Remote
-
-  <br/>
-  <br/>
-
-  • Evaluated search engine results on IT-themed queries
-  
-  • Evaluated machine translations
-</ul>
-
-#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): Course Instructor (Linguistics for Olympiades)
-<ul>
-  First experience of lecturing | 2021-2022 | Moscow, Russia | On-site
-
-  <br/>
-  <br/>
-
-  • Held lectures, composed and evaluated assignments for the Course "Linguistics for Olympiads"
-</ul>
-
------
-
-### Educational Background🧑‍🎓
-
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): PhD
-<ul>
-  Computational Linguistics | 2025-2027 | Tübingen, Germany
-</ul>
-
-#### [_Eberhard Karls Universität Tübingen_](https://uni-tuebingen.de/en/): Bachelor
-<ul>
-  Computational Linguistics | 2022-2024 | Tübingen, Germany
-
-  • 2024 Bachelor thesis on applying LLMs to splitting German compounds (`Python`, `LangChain`, `PyTorch`, `HF transformers`)
-    
-  • 2024 Group project on investigating influence of RL fine-tuning data on biasing LLMs (`Python`, `HF transformers`)
-
-  • 2023 Participated at the SemEval 2023 and published a paper at the ACL Anthology (`Python`, `HF transformers`, `HF datasets`)
-</ul>
-
-#### [_Lomonosov MSU_](https://www.msu.ru/en/): Bachelor (incomplete)
-<ul>
-  Theoretical and Applied Linguistics | 2019-2022 | Moscow, Russia
-  
-  • 2022 Personal project DERBI: a tool for automatic inflection of German words (`Python`)
-  
-  • 2022 Conference diploma for DERBI: Lomonosov-2022 (Lomonosov Moscow State University), Science Sessions-2022 (Kant Baltic Federal University), XXII International Conference of Young Slavists (Tallinn University)
-
-  • 2021 Term paper on predicting ablaut class of German strong verbs (`Python`, `PyTorch`)
-</ul>
-
-#### [_Lomonosov MSU Gymnasium_](https://school.msu.ru): High School
-<ul>
-  History and Philology | 2017-2019 | Moscow, Russia
-
-  • 2019 Prize-winner of All-Russian Olympiad for Linguistics (gives no-exam admission to the top university of choice)
-  
-  • 2019 Graduation with a Gold Medal
-</ul>
-  
------
-
-### Fun Facts😎
-
-* I've been living on my own from the age of 15
-* I gave up Lomonosov MSU to leave for Germany in 2022
-* My best friend and I have found a startup, the app is currently in beta testing
-* In 2019, I became a prize-winner of All-Russian Olympiade for Linguistics, while I had only 5 month to prepare
-* The prize gave me a right to enter any university of my choice in Russia for major Linguistics without any exams at all
-* I completed a musical education, now I compose songs from time to time
-* I got my first driving license when I was 17: that one was for motorcycles with 125cc and smaller engines
-* At 18, came back to the same driving school to obtain further licenses: for autos and for large displacement motorcycles; the funny part is, I drove to the exam place on my moto to take an exam for driving motos
-* I learned to weld in 3 days just for fun and crafted a food stand for my dog
+* I've been living independently since I was 15.
+* I gave up Lomonosov MSU to leave for Germany in 2022.
+* My best friend and I have made a few unsuccessful attempts to found a startup in 2022-2025.
+* In 2019, I became a prize-winner of All-Russian Olympiade for Linguistics, while I had only 5 month to prepare for it.
+* The prize gave me a right to enter any university of my choice in Russia for major Linguistics without any exams at all.
+* I have completed a musical education, now I compose music from time to time.
+* I got my first driving license when I was 17: that one was for motorcycles with 125cc and smaller engines.
+* At 18, came back to the same driving school to obtain further licenses: for autos and for large displacement motorcycles; the funny part is, I drove to the exam place on my moto to take an exam for driving motos.
+* I learned to weld in 3 days just for fun and crafted a food stand for my dog.
+* My mom design patterns for baby knitwear and has 100k+ followers on Instagram (check out BoGatti).
