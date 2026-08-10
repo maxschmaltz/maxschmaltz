@@ -31,7 +31,7 @@ Click [here](https://github.com/maxschmaltz/maxschmaltz/blob/main/Resume.pdf) to
 
 |   |   |
 |---|---|
-| 2026 | **Constraints on Linking Element Choice in German Nominal Compounding: A Large-Scale Corpus Study** <br> In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE), DOI: [10.63317/24uhjb79y8ov](https://doi.org/10.63317/24uhjb79y8ov). |
+| 2026 | **Constraints on Linking Element Choice in German Nominal Compounding: A Large-Scale Corpus Study** <br> In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE), Palma, DOI: [10.63317/24uhjb79y8ov](https://doi.org/10.63317/24uhjb79y8ov). |
 | 2024 | **Derbi: Deutscher regelbasierter Inflektor** <br> In [Studia Slavica XX](https://www.etis.ee/portal/publications/display/137a983f-08d4-416c-87e6-bf683ee46849), Tallinn, ISBN 2674-2160. |
 | 2023 | **John Boy Walton at SemEval-2023 Task 5: An Ensemble Approach to Spoiler Classification and Retrieval for Clickbait Spoiling** <br> In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), Toronto, DOI [10.18653/v1/2023.semeval-1.289](https://doi.org/10.18653/v1/2023.semeval-1.289). |
 
