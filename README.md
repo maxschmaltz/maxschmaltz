@@ -19,6 +19,8 @@ Click [here]([./resume.pdf](https://github.com/maxschmaltz/maxschmaltz/blob/main
 
 ### Related Work Experience
 
+|   |   |
+|---|---|
 | 2025-2029 | Research Assistant, Eberhards Karls Universität Tübingen, Tübingen, on-site <br> <br> • Currently occupied at a long-term project called The Status of Linguistic Constraints in Neural Language Models as a part of the [LaSTing Priority Program](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-32) (funded by the DFG, reference number HI 495/8-1). The current step of the project is investigating whether the LLMs are able to acquire weak (defeasible) grammar constraints on the example of German compounding. See [DieKonstraints](https://github.com/maxschmaltz/DieKonstraints) on GitHub. <br> <br> • Instructed the course "LLM-based Assistants" for BA students. See the [course page](https://maxschmaltz.github.io/Course-LLM-based-Assistants/) and the [repo](https://github.com/maxschmaltz/Course-LLM-based-Assistants) on GitHub. |
 | 2024-2025 | **Working Student for LLMs**, IPH gGmbH, Hannover, remote <br> <br> • Prototyped custom RAG pipelines (Python, n8n, LangChain, streamlit, docker). |
 | 2023-2024 | **Working Student for LLMs**, IAV GmbH, Berlin, hybrid <br> <br> • Implemented and integrated an internal tool for evaluation of LLMs and RAG pipelines (Python, LangChain, Ragas, OpenAI). <br> <br> • Connected OpenAI tool calling to our internal on-premise models (Python, TGI, LangChain). |
