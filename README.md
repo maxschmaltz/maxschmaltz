@@ -21,7 +21,7 @@ Click [here]([./resume.pdf](https://github.com/maxschmaltz/maxschmaltz/blob/main
 
 |   |   |
 |---|---|
-| 2025-2029 | Research Assistant, Eberhards Karls Universität Tübingen, Tübingen, on-site <br> <br> • Currently occupied at a long-term project called The Status of Linguistic Constraints in Neural Language Models as a part of the [LaSTing Priority Program](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-32) (funded by the DFG, reference number HI 495/8-1). The current step of the project is investigating whether the LLMs are able to acquire weak (defeasible) grammar constraints on the example of German compounding. See [DieKonstraints](https://github.com/maxschmaltz/DieKonstraints) on GitHub. <br> <br> • Instructed the course "LLM-based Assistants" for BA students. See the [course page](https://maxschmaltz.github.io/Course-LLM-based-Assistants/) and the [repo](https://github.com/maxschmaltz/Course-LLM-based-Assistants) on GitHub. |
+| 2025-2029 | **Research Assistant, Eberhards Karls Universität Tübingen, Tübingen, on-site** <br> <br> • Currently occupied at a long-term project called The Status of Linguistic Constraints in Neural Language Models as a part of the [LaSTing Priority Program](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-32) (funded by the DFG, reference number HI 495/8-1). The current step of the project is investigating whether the LLMs are able to acquire weak (defeasible) grammar constraints on the example of German compounding. See [DieKonstraints](https://github.com/maxschmaltz/DieKonstraints) on GitHub. <br> <br> • Instructed the course "LLM-based Assistants" for BA students. See the [course page](https://maxschmaltz.github.io/Course-LLM-based-Assistants/) and the [repo](https://github.com/maxschmaltz/Course-LLM-based-Assistants) on GitHub. |
 | 2024-2025 | **Working Student for LLMs**, IPH gGmbH, Hannover, remote <br> <br> • Prototyped custom RAG pipelines (Python, n8n, LangChain, streamlit, docker). |
 | 2023-2024 | **Working Student for LLMs**, IAV GmbH, Berlin, hybrid <br> <br> • Implemented and integrated an internal tool for evaluation of LLMs and RAG pipelines (Python, LangChain, Ragas, OpenAI). <br> <br> • Connected OpenAI tool calling to our internal on-premise models (Python, TGI, LangChain). |
 | 2021-2023 | **Data Scientist / NLP Engineer**, MKSKOM, Moscow, hybrid <br> <br> • Implemented the backend for a custom RAG engine for a large customer (Python, LangChain, Llama.cpp, HF Transformers). <br> <br> • Increased the number of responses from potential customers on a freelance platform by 5 times by designing and implementing an LLM-based tool for automatic search for and contacting leads (Python, LangChain, OpenAI, Puzzle \[internal tool\]). Сommunicated with potential customers on that platform. <br> <br> • Implemented prototypes of various tools for NLP, time series prediction, optimization modeling, data analysis (Python, PyTorch, spaCy, scikit-learn, statsmodels, Pandas, NumPy, streamlit). |
@@ -29,19 +29,25 @@ Click [here]([./resume.pdf](https://github.com/maxschmaltz/maxschmaltz/blob/main
 
 ### Publications
 
-| 2026 | Constraints on Linking Element Choice in German Nominal Compounding: A Large-Scale Corpus Study <br> In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE), DOI: [10.63317/24uhjb79y8ov](https://doi.org/10.63317/24uhjb79y8ov). |
+|   |   |
+|---|---|
+| 2026 | **Constraints on Linking Element Choice in German Nominal Compounding: A Large-Scale Corpus Study** <br> In Proceedings of the Workshop on Structured Linguistic Data and Evaluation (SLiDE), DOI: [10.63317/24uhjb79y8ov](https://doi.org/10.63317/24uhjb79y8ov). |
 | 2024 | **Derbi: Deutscher regelbasierter Inflektor** <br> In [Studia Slavica XX](https://www.etis.ee/portal/publications/display/137a983f-08d4-416c-87e6-bf683ee46849), Tallinn, ISBN 2674-2160. |
 | 2023 | **John Boy Walton at SemEval-2023 Task 5: An Ensemble Approach to Spoiler Classification and Retrieval for Clickbait Spoiling** <br> In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), Toronto, DOI [10.18653/v1/2023.semeval-1.289](https://doi.org/10.18653/v1/2023.semeval-1.289). |
 
 ### Education
 
-| 2025-curr | Eberhard Karls Universität Tübingen, PhD: Computational Linguistics, Tübingen <br> <br> • 2026 Talk and [publication](https://doi.org/10.63317/24uhjb79y8ov) at the [SLiDE workshop](https://www.slide-workshop.org) at the [LREC26](https://lrec2026.info) conference. <br> <br> • 2025 Was admitted to the PhD program directly after completing BA. |
+|   |   |
+|---|---|
+| 2025-curr | **Eberhard Karls Universität Tübingen**, PhD: Computational Linguistics, Tübingen <br> <br> • 2026 Talk and [publication](https://doi.org/10.63317/24uhjb79y8ov) at the [SLiDE workshop](https://www.slide-workshop.org) at the [LREC26](https://lrec2026.info) conference. <br> <br> • 2025 Was admitted to the PhD program directly after completing BA. |
 | 2022-2025 | **Eberhard Karls Universität Tübingen**, BA: Computational Linguistics, Tübingen <br> <br> • 2024 Bachelor thesis on applying LLMs to German compound splitting (Python, LangChain, PyTorch, HF transformers). See [DEKOR](https://github.com/maxschmaltz/DEKOR) on GitHub. <br> <br> • 2023 Participated at the SemEval 2023 and published a [result paper](https://doi.org/10.18653/v1/2023.semeval-1.289) (Python, HF transformers). |
 | 2019-2022 | **Lomonosov Moscow State University**, BA, interrupted: Theoretical and Applied Linguistics, Moscow <br> <br> • 2022 Developed DERBI: a tool for automatic inflection of German words (Python), see [DERBI](https://github.com/maxschmaltz/DERBI) on GitHub. <br> <br> • 2022 Participated at student conferences in Tallinn (on-site), Moscow (remote), Kaliningrad (remote). <br> <br> • 2021 Term paper on predicting ablaut classes of German strong verbs (Python, PyTorch). |
 | 2017-2019 | **Lomonosov Moscow State University Gymnasium**, High School: History and Philology, Moscow <br> <br> • 2019 Prize-winner of All-Russian Olympiad for Linguistics (allows an exam-free admission to a linguistics program at the university of choice). <br> <br> • 2019 Graduation with a Gold Medal. |
 
 ### Misc
 
+|   |   |
+|---|---|
 | Natural languages  | Russian (native), English (C1), German (B2/C1), Spanish (B1), Italian (A2). |
 | Programming languages  | Python, R, C\#, Java. |
 | Tech stack | LangChain, HF Transformers, spaCy, PyTorch, scikit-learn, Pandas, NumPy; Docker, GitLab (CI/CD), basic Unix tools. |
