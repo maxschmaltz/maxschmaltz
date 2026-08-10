@@ -2,7 +2,7 @@
 
 I am pursuing a PhD in computational linguistics at the University of Tübingen. My primary interests include weak constraints in grammar, abstraction/generalization capabilities of LLMs, and pragmatic reasoning with LLMs. In particular, I am currently investigating whether LLMs can abstract the interaction of conflicting constraints that govern irregular phenomena in German as humans do.
 
-Click [here]([./resume.pdf](https://github.com/maxschmaltz/maxschmaltz/blob/main/resume.pdf)) to access my resume.
+Click [here](https://github.com/maxschmaltz/maxschmaltz/blob/main/Resume.pdf) to access my resume.
 
 ### Connect
 
